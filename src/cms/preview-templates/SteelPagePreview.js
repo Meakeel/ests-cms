@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { SteelPageTemplate } from '../../templates/about-page'
+import { SteelPageTemplate } from '../../templates/steel-page'
 
 const SteelPagePreview = ({ entry, widgetFor }) => (
   <SteelPageTemplate
